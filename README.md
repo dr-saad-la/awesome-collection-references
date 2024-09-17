@@ -12,6 +12,8 @@ Awesome collection of github accounts in the field of data science, computing, p
 
 #### Python 
 
+1. []
+
 
 #### Julia 
 
@@ -62,3 +64,12 @@ Awesome collection of github accounts in the field of data science, computing, p
 2. [Pytorch]
 3. [FastAI]
 4. 
+
+
+## Text Editors
+
+### Vim
+
+1. [Awesome Vim](https://vimawesome.com/)
+2. [Dev Hints](https://devhints.io/vim)
+3. [Vim Plugins] (https://github.com/junegunn/vim-plug?tab=readme-ov-file)
