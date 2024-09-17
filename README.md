@@ -72,4 +72,4 @@ Awesome collection of github accounts in the field of data science, computing, p
 
 1. [Awesome Vim](https://vimawesome.com/)
 2. [Dev Hints](https://devhints.io/vim)
-3. [Vim Plugins] (https://github.com/junegunn/vim-plug?tab=readme-ov-file)
+3. [Vim Plugins](https://github.com/junegunn/vim-plug?tab=readme-ov-file)
